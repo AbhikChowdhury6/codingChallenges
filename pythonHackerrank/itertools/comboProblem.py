@@ -9,7 +9,7 @@ k = int(input())
 
 numA = lis.count("a")
 
-# N choose k - (N - N choose numA) / N choose k
+# N choose k - (N - numA) choose k / N choose k
 
 lennCk = len(list(combinations(lis, k)))
 
