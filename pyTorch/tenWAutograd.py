@@ -24,7 +24,7 @@ b = torch.randn((), dtype=dtype, requires_grad=True)
 c = torch.randn((), dtype=dtype, requires_grad=True)
 d = torch.randn((), dtype=dtype, requires_grad=True)
 
-learning_rate = 1e-6
+learning_rate = 3e-6
 for t in range(2000):
     # Forward pass: compute predicted y using operations on Tensors.
     y_pred = a + b * x + c * x ** 2 + d * x ** 3
@@ -52,6 +52,10 @@ for t in range(2000):
         b -= learning_rate * b.grad
         c -= learning_rate * c.grad
         d -= learning_rate * d.grad
+        writer.add_scalar("a grads", a.grad.item(), t)
+        writer.add_scalar("b grads", b.grad.item(), t)
+        writer.add_scalar("c grads", c.grad.item(), t)
+        writer.add_scalar("d grads", d.grad.item(), t)
 
         # Manually zero the gradients after updating weights
         a.grad = None
