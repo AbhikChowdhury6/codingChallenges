@@ -18,6 +18,11 @@ print(l3)
 
 part1 = (lambda recurFunc : lambda recurVals : recurFunc(recurFunc, recurVals))
 
+def part1afunc(recurFunc):
+    def part1bfunc(vals):
+        return recurFunc(recurFunc, vals)
+    return part1bfunc
+
 part2 = part1((lambda fl, y: [x for b in y for x in fl(fl,b)] if type(y) is list else [y]))
 
 def part2func (fl, y):
@@ -38,9 +43,11 @@ print(part2def(l3))
 
 print(sum(l3, []))
 
-part2fib = part1((lambda s,x:1 if x==0 else x*s(s,x-1)))
+part2fib = part1afunc((lambda s,x:1 if x==0 else x*s(s,x-1)))
 
 print(part2fib(10))
+#print(part1afunc(part2fib)(10))
+
 
 #a = (lambda g: (lambda f, *a: f(f, *a))(lambda fl, y: [x for b in y for x in fl(fl,b)] if type(y) is list else [y]))(l2)
 
