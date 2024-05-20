@@ -1,6 +1,12 @@
 reviews = pd.read_csv("../input/wine-reviews/winemag-data-130k-v2.csv", index_col=0)
 
 
+#other relevant code
+df = reviews.loc[reviews.price.notnull()]
+reviews['index_backwards'] = range(len(reviews), 0, -1)
+reviews.set_index("title")
+
+
 #q1
 #desc is a series
 desc = reviews["description"]
