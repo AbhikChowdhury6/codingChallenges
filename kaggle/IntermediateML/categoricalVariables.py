@@ -91,6 +91,7 @@ sorted(d.items(), key=lambda x: x[1])
 
 
 #step 3
+#you can use the get_dummies function for one hot encoding
 # Columns that will be one-hot encoded
 low_cardinality_cols = [col for col in object_cols if X_train[col].nunique() < 10]
 
