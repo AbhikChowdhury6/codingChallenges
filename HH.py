@@ -1,6 +1,6 @@
 from random import randint
 
-numTrials = int(1e6)
+numTrials = int(1e5)
 
 numTries = []
 
@@ -15,4 +15,5 @@ for _ in range(numTrials):
 
 
 #print(numTries[:100])
+print(max(numTries))
 print(sum(numTries)/len(numTries))
