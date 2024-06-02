@@ -1,0 +1,5 @@
+SELECT TE, COUNT(TE) FROM (
+    SELECT months * salary AS TE FROM Employee) AS a
+GROUP BY TE
+ORDER BY TE DESC
+LIMIT 1

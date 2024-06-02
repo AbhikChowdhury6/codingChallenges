@@ -14,3 +14,4 @@ chalCounts AS (
 SELECT hacker_id, name, CC FROM hackerCounts
 where CC IN (SELECT CC FROM chalCounts)
 ORDER BY CC DESC, hacker_id
+
