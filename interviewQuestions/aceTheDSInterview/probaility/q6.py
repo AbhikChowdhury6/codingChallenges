@@ -1,4 +1,8 @@
 """
+This proble is about aplying bayes rule
+
+
+
 P(TP) = 0.001
 P(not TP) = 0.999
 P(posT |TP) = 0.98
