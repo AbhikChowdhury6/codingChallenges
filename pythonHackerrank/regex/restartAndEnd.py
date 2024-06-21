@@ -9,7 +9,7 @@ m = re.search(r"{}".format(k), s)
 lastStart = -1
 
 if m is None:
-    print("(-1,-1)")
+    print("(-1, -1)")
 else:
     for i in range(len(s)):
         m = re.search(r"{}".format(k), s[i:])
