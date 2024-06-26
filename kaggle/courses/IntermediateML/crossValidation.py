@@ -55,7 +55,6 @@ results = {x:get_score(x) for x in range(50,401,50)} # Your code here
 
 
 import matplotlib.pyplot as plt
-%matplotlib inline
 
 plt.plot(list(results.keys()), list(results.values()))
 plt.show()
