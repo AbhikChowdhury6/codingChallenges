@@ -157,7 +157,7 @@ display(store_sales.index.get_level_values('family').unique())
 
 ax = y.loc(axis=1)['sales', STORE_NBR, FAMILY].plot(**plot_params)
 ax = y_pred.loc(axis=1)['sales', STORE_NBR, FAMILY].plot(ax=ax)
-ax.set_title(f'{FAMILY} Sales at Store {STORE_NBR}');
+ax.set_title(f'{FAMILY} Sales at Store {STORE_NBR}')
 
 
 df_test = pd.read_csv(
