@@ -47,3 +47,7 @@ Suspendisse nec tortor ornare enim accumsan fringilla pellentesque quis turpis. 
 Sed tempus suscipit sem id mattis. Aenean gravida semper velit fringilla posuere. Suspendisse vel finibus justo. Nullam fringilla sed nunc vitae dictum. Praesent porta libero non magna efficitur ullamcorper. Donec ipsum lectus, condimentum id fringilla sed, mollis vel urn
 ## An added paragraph! <a name="paragraph3"></a>
 some text
+
+![test alt text](https://github.com/AbhikChowdhury6/codingChallenges/blob/main/portgolioImages/test.jpg?raw=true)
+
+https://github.com/AbhikChowdhury6/codingChallenges/blob/main/portgolioImages/test.jpg
