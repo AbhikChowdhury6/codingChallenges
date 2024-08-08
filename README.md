@@ -60,6 +60,11 @@ Sed tempus suscipit sem id mattis. Aenean gravida semper velit fringilla posuere
 ## An added paragraph! <a name="paragraph3"></a>
 some text
 
+|**Information A**|**Information B**|
+|:---:|:---:|
+| Text1 <br/> Text2 | ![stats-one](https://github.com/AbhikChowdhury6/codingChallenges/blob/main/portfolioImages/test.jpg?raw=true) |
+| Text3 <br/> Text4 | some test text |
+
 ![test alt text](https://github.com/AbhikChowdhury6/codingChallenges/blob/main/portfolioImages/test.jpg?raw=true)
 
 
