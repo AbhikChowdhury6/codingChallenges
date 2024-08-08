@@ -31,22 +31,21 @@ I did some projects
 ### Fine-tuning LLMs for Improved Emotional Reasoning <a name="llms"></a>
 We found that fine-tuning LLMs on responses from empathetic human listeners improved their performance on emotional reasoning tasks and that fine-tuning on poor listeners degraded their performance. 
 
-![](https://github.com/AbhikChowdhury6/codingChallenges/blob/main/portfolioImages/fineTuningGL.png?raw=true| width=100)
+<img src="https://github.com/AbhikChowdhury6/codingChallenges/blob/main/portfolioImages/fineTuningGL.png?raw=true" width="600">
 
 
 
 ### Future Task Rewards in Multiagent Reinforcement Learning <a name="futuretasks"></a>
 
-![](https://github.com/AbhikChowdhury6/codingChallenges/blob/main/portfolioImages/multiAgent.gif?raw=true| width=100)
+<img src="https://github.com/AbhikChowdhury6/codingChallenges/blob/main/portfolioImages/multiAgent.gif?raw=true" width="300">
 
 
 ### Continuous Glucose Monitoring Modeling <a name="glucose"></a>
 
-![](https://github.com/AbhikChowdhury6/codingChallenges/blob/main/portfolioImages/CGM.png?raw=true| width=100)
+<img src="https://github.com/AbhikChowdhury6/codingChallenges/blob/main/portfolioImages/CGM.png?raw=true" width="300">
 
 ### Wrist-worn Camera Object Identification <a name="llms"></a>
-![](https://github.com/AbhikChowdhury6/codingChallenges/blob/main/portfolioImages/handcamProto.jpg | width=100)
-
+<img src="https://github.com/AbhikChowdhury6/codingChallenges/blob/main/portfolioImages/handcamProto.jpg" width="300">
 
 ### Sleep Tracker Data Analysis <a name="qssleep"></a>
 
@@ -61,11 +60,12 @@ I did some projects
 
 ### Vision Hack Computer Vision Hackathon in Moscow (Russia) -  Most Innovative Award <a name="visionhack"></a>
 
-<img src="https://github.com/AbhikChowdhury6/codingChallenges/blob/main/portfolioImages/russiaAward.jpg?raw=true" width="250">
+<img src="https://github.com/AbhikChowdhury6/codingChallenges/blob/main/portfolioImages/russiaAward.jpg?raw=true" width="600">
 
 ### Bias in NLP Talk for LA Tech for Good Equity in Data Workshop Series <a name="biasinnlp"></a>
-![](https://github.com/AbhikChowdhury6/codingChallenges/blob/main/portfolioImages/laTechForGood.png?raw=true)
+
+<img src="https://github.com/AbhikChowdhury6/codingChallenges/blob/main/portfolioImages/laTechForGood.png?raw=true" width="600">
 
 ### “DIY Wearables” Workshop Conducted at Media Lab<a name="dataengineering"></a>
 I did some projects
-<img src="https://github.com/AbhikChowdhury6/codingChallenges/blob/main/portfolioImages/wearablesWorkshopMIT.jpg?raw=true" width="100">
+<img src="https://github.com/AbhikChowdhury6/codingChallenges/blob/main/portfolioImages/wearablesWorkshopMIT.jpg?raw=true" width="600">
