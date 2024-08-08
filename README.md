@@ -48,6 +48,6 @@ Sed tempus suscipit sem id mattis. Aenean gravida semper velit fringilla posuere
 ## An added paragraph! <a name="paragraph3"></a>
 some text
 
-![test alt text](https://github.com/AbhikChowdhury6/codingChallenges/blob/main/portgolioImages/test.jpg?raw=true)
+![test alt text](https://github.com/AbhikChowdhury6/codingChallenges/blob/main/portfolioImages/test.jpg?raw=true)
 
-https://github.com/AbhikChowdhury6/codingChallenges/blob/main/portgolioImages/test.jpg
+https://github.com/AbhikChowdhury6/codingChallenges/blob/main/portfolioImages/test.jpg
