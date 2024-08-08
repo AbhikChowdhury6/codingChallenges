@@ -1,14 +1,50 @@
 # Table of contents
-1. [Introduction](#introduction)
-2. [Some paragraph](#paragraph1)
-    1. [Sub paragraph](#subparagraph1)
-3. [Another paragraph](#paragraph2)
-4. [An added paragraph](#paragraph3)
+1. [Data and ML](#dataml)
+    1. [Fine-tuning LLMs for Improved Emotional Reasoning](#llms)
+    2. [Future Task Rewards in Multiagent Reinforcement Learning](#futuretasks)
+    3. [Continuous Glucose Monitoring Modeling](#glucose)
+    4. [Wrist-worn Camera Object Identification ](#handcam)
+    5. [Sleep Tracker Data Analysis](#qssleep)
+    6. [CPR Education App Algorithm Development](#cprapp)
+2. [Data Engineering](#dataengineering)
+    1. [Kubernetes Network Configuration](#kubentwork)
+    2. [Hybrid Cloud Setup](#hybridcloud)
+3. [Talks and Awards](#talks)
+    1. [Vision Hack Computer Vision Hackathon in Moscow (Russia) -  Most Innovative Award](#visionhack)
+    2. [Bias in NLP Talk for LA Tech for Good Equity in Data Workshop Series](#biasinnlp)
+    3. [“DIY Wearables” Workshop Conducted at Media Lab](#wearablesworkshop)
+4. [Stakeholder Engagement and Business](#business)
+    1. [Eyes On - Augmenting Nonvisual Travel Using Haptic Interfaces](#eyeson)
+    2. [Co-Instructed Wearable Technology Class in The Fashion School at ASU](#fashionclass)
+5. [Other Work on Wearable Devices](#wearables)
+    1. [Resonea - Wearable Microphone for Sleep Analysis](#resonea)
+    2. [Compression Sleeve for Basketball Analysis](#basketballsleeve)
+    3. [Sound Responsive Dress](#sounddress)
+6. [Modeling Dynamics](#dynamics)
+    1. [Unsafe Trajectory Modeling](#unsafetrajectories)
+    2. [Optimal Stock Policy Simulation](#stocksimulation)
 
-## This is the introduction <a name="introduction"></a>
-Some introduction text, formatted in heading 2 style
-"Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?"
 
+## Machine Learning and Data Analysis <a name="dataml"></a>
+I did some projects
+
+### Fine-tuning LLMs for Improved Emotional Reasoning <a name="llms"></a>
+We found that fine-tuning LLMs on responses from empathetic human listeners improved their performance on emotional reasoning tasks and that fine-tuning on poor listeners degraded their performance. 
+
+
+
+
+### Future Task Rewards in Multiagent Reinforcement Learning <a name="llms"></a>
+
+
+
+### Fine-tuning LLMs for Improved Emotional Reasoning <a name="llms"></a>
+
+
+### Fine-tuning LLMs for Improved Emotional Reasoning <a name="llms"></a>
+
+
+### Fine-tuning LLMs for Improved Emotional Reasoning <a name="llms"></a>
 
 
 
