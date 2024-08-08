@@ -39,15 +39,29 @@ Aenean at sem vitae massa faucibus elementum. In ullamcorper mauris ac erat fauc
 
 
 ## Another paragraph <a name="paragraph2"></a>
-The second paragraph text
+
+<table border="0">
+ <tr>
+    <td><b style="font-size:30px">Title</b></td>
+    <td><b style="font-size:30px">Title 2</b></td>
+ </tr>
+ <tr>
+    <td>The second paragraph text
 Phasellus imperdiet viverra arcu, ac vestibulum nisi convallis et. Etiam vehicula vel sapien et venenatis. Fusce semper sed diam vel tristique. Vestibulum id arcu auctor dui dapibus fringilla. Sed tempor augue at quam sagittis, nec maximus risus dapibus. Ut nec eros arcu. Sed sapien odio, dictum a iaculis vel, pretium vel ipsum. Vivamus auctor, ipsum a cursus efficitur, nisi ipsum rhoncus dolor, vel venenatis dui justo non felis. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Mauris consectetur, elit a fermentum pellentesque, purus diam volutpat velit, eget lobortis sapien justo sed nisl. Sed quis ex sit amet purus commodo scelerisque porttitor at erat.
 
-Suspendisse nec tortor ornare enim accumsan fringilla pellentesque quis turpis. Nulla pretium vitae sapien finibus vehicula. In tempus sagittis hendrerit. Praesent ultrices feugiat diam sit amet ornare. Nam mollis orci eros. Phasellus convallis vitae ex non condimentum. Etiam egestas, odio vitae porttitor ultrices, ante tellus consectetur elit, a condimentum erat ligula id nisl. Quisque malesuada ex in nulla sagittis, ac ullamcorper odio commodo. Maecenas vel fermentum felis, eu tempus diam. Donec vitae egestas tortor. Cras vel vestibulum diam, vitae imperdiet eros. Sed commodo, lacus sit amet vulputate volutpat, purus turpis euismod orci, non mollis ipsum leo quis massa. Nam ac consectetur massa, at laoreet lacus.
+Suspendisse nec tortor ornare enim accumsan fringilla pellentesque quis turpis. Nulla pretium vitae sapien finibus vehicula. In tempus sagittis hendrerit. Praesent ultrices feugiat diam sit amet ornare. Nam mollis orci eros. Phasellus convallis vitae ex non condimentum. Etiam egestas, odio vitae porttitor ultrices, ante tellus consectetur elit, a condimentum erat ligula id nisl. Quisque malesuada ex in nulla sagittis, ac ullamcorper odio commodo. Maecenas vel fermentum felis, eu tempus diam. Donec vitae egestas tortor. Cras vel vestibulum diam, vitae imperdiet eros. Sed commodo, lacus sit amet vulputate volutpat, purus turpis euismod orci, non mollis ipsum leo quis massa. Nam ac consectetur massa, at laoreet lacus.</td>
+    <td>Sed tempus suscipit sem id mattis. Aenean gravida semper velit fringilla posuere. Suspendisse vel finibus justo. Nullam fringilla sed nunc vitae dictum. Praesent porta libero non magna efficitur ullamcorper. Donec ipsum lectus, condimentum id fringilla sed, mollis vel urn</td>
+ </tr>
+</table>
+The second paragraph text
+asdfasdfasdf
 
 Sed tempus suscipit sem id mattis. Aenean gravida semper velit fringilla posuere. Suspendisse vel finibus justo. Nullam fringilla sed nunc vitae dictum. Praesent porta libero non magna efficitur ullamcorper. Donec ipsum lectus, condimentum id fringilla sed, mollis vel urn
 ## An added paragraph! <a name="paragraph3"></a>
 some text
 
 ![test alt text](https://github.com/AbhikChowdhury6/codingChallenges/blob/main/portfolioImages/test.jpg?raw=true)
+
+
 
 https://github.com/AbhikChowdhury6/codingChallenges/blob/main/portfolioImages/test.jpg
