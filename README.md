@@ -49,7 +49,9 @@ We found that fine-tuning LLMs on responses from empathetic human listeners impr
 
 
 ### Sleep Tracker Data Analysis <a name="qssleep"></a>
-![](https://github.com/AbhikChowdhury6/codingChallenges/blob/main/portfolioImages/handcamProto.jpg =250x250)
+
+<img src="https://github.com/AbhikChowdhury6/codingChallenges/blob/main/portfolioImages/handcamProto.jpg" width="300">
+
 
 ### CPR Practice App Algorithm Development <a name="cprapp"></a>
 some text
@@ -58,11 +60,12 @@ some text
 I did some projects
 
 ### Vision Hack Computer Vision Hackathon in Moscow (Russia) -  Most Innovative Award <a name="visionhack"></a>
-![](https://github.com/AbhikChowdhury6/codingChallenges/blob/main/portfolioImages/russiaAward.jpg?raw=true =250x250)
+
+<img src="https://github.com/AbhikChowdhury6/codingChallenges/blob/main/portfolioImages/russiaAward.jpg?raw=true" width="250">
 
 ### Bias in NLP Talk for LA Tech for Good Equity in Data Workshop Series <a name="biasinnlp"></a>
 ![](https://github.com/AbhikChowdhury6/codingChallenges/blob/main/portfolioImages/laTechForGood.png?raw=true)
 
 ### “DIY Wearables” Workshop Conducted at Media Lab<a name="dataengineering"></a>
 I did some projects
-![](https://github.com/AbhikChowdhury6/codingChallenges/blob/main/portfolioImages/wearablesWorkshopMIT.jpg?raw=true | width=100)
+<img src="https://github.com/AbhikChowdhury6/codingChallenges/blob/main/portfolioImages/wearablesWorkshopMIT.jpg?raw=true" width="100">
