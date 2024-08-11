@@ -42,6 +42,7 @@ We found that fine-tuning LLMs on responses from empathetic human listeners impr
 
 ### Continuous Glucose Monitoring Modeling <a name="glucose"></a>
 
+https://github.com/AbhikChowdhury6/CGMcomp
 <img src="https://github.com/AbhikChowdhury6/codingChallenges/blob/main/portfolioImages/CGM.png?raw=true" width="300">
 
 ### Wrist-worn Camera Object Identification <a name="llms"></a>
@@ -49,11 +50,13 @@ We found that fine-tuning LLMs on responses from empathetic human listeners impr
 
 ### Sleep Tracker Data Analysis <a name="qssleep"></a>
 
-<img src="https://github.com/AbhikChowdhury6/codingChallenges/blob/main/portfolioImages/handcamProto.jpg" width="300">
+<img src="https://github.com/AbhikChowdhury6/codingChallenges/blob/main/portfolioImages/sleepAnalysis.png" width="300">
 
+https://github.com/AbhikChowdhury6/qsPrez
+https://docs.google.com/presentation/d/1ItZ8jAxl0TGqR20lN6VzB8wObBdyKx0Q8bgiz4pZ7_0/edit?usp=sharing
 
 ### CPR Practice App Algorithm Development <a name="cprapp"></a>
-some text
+A mobile app used to train hundreds of people on how to do hands-only CPR, my contribution being the accelerometer signal processing to derive the depth and frequency of compression.
 
 ## Talks and Awards<a name="talks"></a>
 I did some projects
@@ -63,9 +66,12 @@ I did some projects
 <img src="https://github.com/AbhikChowdhury6/codingChallenges/blob/main/portfolioImages/russiaAward.jpg?raw=true" width="600">
 
 ### Bias in NLP Talk for LA Tech for Good Equity in Data Workshop Series <a name="biasinnlp"></a>
+In 2021 I did a presentation on common Biases in NLP and approaches to address them for LA Tech For Good’s spring cohort. 
+https://docs.google.com/presentation/d/1zwXn2MowSf9qtVjamijvSSwvJ7sJleuu-Hu3Di8ZAOw/edit?usp=sharing
 
 <img src="https://github.com/AbhikChowdhury6/codingChallenges/blob/main/portfolioImages/laTechForGood.png?raw=true" width="600">
 
 ### “DIY Wearables” Workshop Conducted at Media Lab<a name="dataengineering"></a>
-I did some projects
+I ran a workshop for the 2019 Community Biosummit at the MIT Media Lab where participants made a breathing sensor chest strap. I wrote the code for signal processing.
+
 <img src="https://github.com/AbhikChowdhury6/codingChallenges/blob/main/portfolioImages/wearablesWorkshopMIT.jpg?raw=true" width="600">
