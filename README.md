@@ -15,7 +15,7 @@
     3. [“DIY Wearables” Workshop Conducted at Media Lab](#wearablesworkshop)
 4. [Stakeholder Engagement and Business](#business)
     1. [Eyes On - Augmenting Nonvisual Travel Using Haptic Interfaces](#eyeson)
-    2. [Co-Instructed Wearable Technology Class in The Fashion School at ASU](#fashionclass)
+    2. [Wearable Technology Class in The Fashion School at ASU](#fashionclass)
 5. [Other Work on Wearable Devices](#wearables)
     1. [Resonea - Wearable Microphone for Sleep Analysis](#resonea)
     2. [Compression Sleeve for Basketball Analysis](#basketballsleeve)
@@ -63,7 +63,7 @@ At the time, the Amazon halo band (purple) and pillow app for sleep tracking on 
 
 The presentation can be found here: https://docs.google.com/presentation/d/1ItZ8jAxl0TGqR20lN6VzB8wObBdyKx0Q8bgiz4pZ7_0/edit?usp=sharing and code here: https://github.com/AbhikChowdhury6/qsPrez
 
-<img src="https://github.com/AbhikChowdhury6/codingChallenges/blob/main/portfolioImages/sleepAnalysis.png" width="300">
+<img src="https://github.com/AbhikChowdhury6/codingChallenges/blob/main/portfolioImages/sleepAnalysis.png">
 
 ### CPR Practice App Algorithm Development <a name="cprapp"></a>
 A mobile app used to train hundreds of people on how to do hands-only CPR, my contribution being the accelerometer signal processing to derive the depth and frequency of compression.
@@ -86,3 +86,22 @@ In 2021, I presented common Biases in Natural Language Processing systems and co
 For the 2019 Community Biosummit at the MIT Media Lab, I ran a workshop where participants made a breathing sensor chest strap. The sensor had a variety of transient effects and I wrote code for processing the signal.
 
 <img src="https://github.com/AbhikChowdhury6/codingChallenges/blob/main/portfolioImages/wearablesWorkshopMIT.jpg?raw=true" width="600">
+
+## Stakeholder Engagement and Business<a name="business"></a>
+
+### Eyes On - Augmenting Nonvisual Travel Using Haptic Interfaces<a name="eyeson"></a>
+
+I implemented multiple devices In collaboration with Bryan Duarte, whose PhD research involved building and testing haptic wearables to augment non visual travel. During the course of the research we ran human factors studies with individuals who were blind.
+
+### Wearable Technology Class in The Fashion School at ASU <a name="fashionclass"></a>
+
+In Spring of 2020 I co-instructed a wearable technology class in Fashion department at Arizona State University. Funded with a grant from the Global Sports Institute, students developed minimum viable products and pitched solutions for sport-related problems. 
+
+## Other Work on Wearable Devices<a name="wearables"></a>
+
+### Resonea - Wearable Microphone for Sleep Analysis <a name="resonea"></a>
+
+Resonea, a biosignal processing company, developed an algorithm to detect various sleep features from audio data from users smart phones. I built a wearable sensor platform that integrated into their existing signal processing pipeline. 
+
+### Compression Sleeve for Basketball Analysis <a name="resonea"></a>
+I built a data logging platform into a compression sleeve as a platform for algorithms to analyze free throws. I wrote software for firmware and data validation. (pictured is a different motion sensor I designed using similar sensors.) basketball
