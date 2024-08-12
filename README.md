@@ -29,7 +29,13 @@
 I did some projects
 
 ### Fine-tuning LLMs for Improved Emotional Reasoning <a name="llms"></a>
-We found that fine-tuning LLMs on responses from empathetic human listeners improved their performance on emotional reasoning tasks and that fine-tuning on poor listeners degraded their performance. 
+TL;DR We found that fine-tuning LLMs on responses from empathetic human listeners improved their performance on emotional reasoning tasks and that fine-tuning on poor listeners degraded their performance.
+
+Emotionally contextualized responses from chatbots have been shown to improve users’ trust in systems. In this work, we fine-tuned 4 different LLMs on the PAIR (Prompt-Aware margIn Ranking)  dataset, which consists of conversational responses annotated by expert counselors as reflecting “good listening” or “bad listening”
+
+We then evaluated those models’ performance on a random sample of 500 questions from the SocialIQA dataset. We found that fine-tuning on interactions with good listeners improved accuracy across all models, and accuracy was degraded when fine-tuning on interactions with poor listeners.
+
+The code can be found here: https://github.com/AbhikChowdhury6/LLMsModelingGoodListeners
 
 <img src="https://github.com/AbhikChowdhury6/codingChallenges/blob/main/portfolioImages/fineTuningGL.png?raw=true" width="600">
 
@@ -48,7 +54,6 @@ The training data was originally formatted as a time series of blood sugar level
 
 The code can be found here https://github.com/AbhikChowdhury6/CGMcomp
 
-https://github.com/AbhikChowdhury6/CGMcomp
 <img src="https://github.com/AbhikChowdhury6/codingChallenges/blob/main/portfolioImages/CGM.png?raw=true" width="300">
 
 ### Wrist-worn Camera Object Identification <a name="llms"></a>
@@ -61,7 +66,8 @@ Aligned sleep data from 3 wrist-based sleep trackers, a smart ring, and an under
 
 At the time, the Amazon halo band (purple) and pillow app for sleep tracking on the Apple watch (blue) didn’t register naps, the Oura ring 2 (green) did not attempt to predict sleep stages during naps, the Fitbit Charge 4 (orange) would attempt sleep stage tracking for longer naps around two hours or more, and the Withings sleep pad (red) was good at tracking, but of course could not sense naps not taken in bed.
 
-The presentation can be found here: https://docs.google.com/presentation/d/1ItZ8jAxl0TGqR20lN6VzB8wObBdyKx0Q8bgiz4pZ7_0/edit?usp=sharing and code here: https://github.com/AbhikChowdhury6/qsPrez
+The presentation can be found here: https://docs.google.com/presentation/d/1ItZ8jAxl0TGqR20lN6VzB8wObBdyKx0Q8bgiz4pZ7_0/edit?usp=sharing 
+and code here: https://github.com/AbhikChowdhury6/qsPrez
 
 <img src="https://github.com/AbhikChowdhury6/codingChallenges/blob/main/portfolioImages/sleepAnalysis.png">
 
