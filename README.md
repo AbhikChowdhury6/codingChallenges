@@ -58,6 +58,7 @@ The code can be found here https://github.com/AbhikChowdhury6/CGMcomp
 
 ### Wrist-worn Camera Object Identification <a name="llms"></a>
 <img src="https://github.com/AbhikChowdhury6/codingChallenges/blob/main/portfolioImages/handcamProto.jpg" width="300">
+<img src="https://github.com/AbhikChowdhury6/codingChallenges/blob/main/portfolioImages/keys10229.jpg" width="300">
 
 ### Sleep Tracker Data Analysis <a name="qssleep"></a>
 
@@ -84,7 +85,7 @@ Represented Arizona State University for the VIsionHack computer vision hackatho
 <img src="https://github.com/AbhikChowdhury6/codingChallenges/blob/main/portfolioImages/russiaAward.jpg?raw=true" width="600">
 
 ### Bias in NLP Talk for LA Tech for Good Equity in Data Workshop Series <a name="biasinnlp"></a>
-In 2021, I presented common Biases in Natural Language Processing systems and common approaches to address them for LA Tech For Good’s spring cohort. The presentation can be found here. 1zwXn2MowSf9qtVjamijvSSwvJ7sJleuu-Hu3Di8ZAOw
+In 2021, I presented common Biases in Natural Language Processing systems and common approaches to address them for LA Tech For Good’s spring cohort. The presentation can be found here. https://docs.google.com/presentation/d/1zwXn2MowSf9qtVjamijvSSwvJ7sJleuu-Hu3Di8ZAOw/
 
 <img src="https://github.com/AbhikChowdhury6/codingChallenges/blob/main/portfolioImages/laTechForGood.png?raw=true" width="600">
 
@@ -99,6 +100,8 @@ For the 2019 Community Biosummit at the MIT Media Lab, I ran a workshop where pa
 
 I implemented multiple devices In collaboration with Bryan Duarte, whose PhD research involved building and testing haptic wearables to augment non visual travel. During the course of the research we ran human factors studies with individuals who were blind.
 
+<img src="https://github.com/AbhikChowdhury6/codingChallenges/blob/main/portfolioImages/eyesOnPoster.jpg?raw=true" width="600">
+
 ### Wearable Technology Class in The Fashion School at ASU <a name="fashionclass"></a>
 
 In Spring of 2020 I co-instructed a wearable technology class in Fashion department at Arizona State University. Funded with a grant from the Global Sports Institute, students developed minimum viable products and pitched solutions for sport-related problems. 
@@ -109,5 +112,7 @@ In Spring of 2020 I co-instructed a wearable technology class in Fashion departm
 
 Resonea, a biosignal processing company, developed an algorithm to detect various sleep features from audio data from users smart phones. I built a wearable sensor platform that integrated into their existing signal processing pipeline. 
 
-### Compression Sleeve for Basketball Analysis <a name="resonea"></a>
+<img src="https://github.com/AbhikChowdhury6/codingChallenges/blob/main/portfolioImages/resonea.jpg?raw=true" width="600">
+
+### Compression Sleeve for Basketball Analysis <a name="basketballsleeve"></a>
 I built a data logging platform into a compression sleeve as a platform for algorithms to analyze free throws. I wrote software for firmware and data validation. (pictured is a different motion sensor I designed using similar sensors.) basketball
