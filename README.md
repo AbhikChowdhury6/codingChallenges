@@ -41,7 +41,19 @@ The code can be found here: https://github.com/AbhikChowdhury6/LLMsModelingGoodL
 
 
 
-### Future Task Rewards in Multiagent Reinforcement Learning <a name="futuretasks"></a>
+### Future Task Rewards in Multiagent Reinforcement Learning (RL)<a name="futuretasks"></a>
+
+TL;DR We extended an RL paper from DeepMind, which proposed incorporating rewards from potential future tasks to incentivize an agent not to generate negative side effects. Our extension was to apply this technique to multiagent environments.
+
+When building agents to carry out complex real-world tasks, it is often difficult to program how to complete a desired task, and so instead, the field of Reinforcement Learning (RL) provides a framework for agents to discover how to complete tasks given their capabilities in an environment and get rewards. While RL can be a powerful tool that enables
+agents to discover skills that would be intractable to program manually, the learned behaviors can also lead to a number of unintended consequences. One category of these unintended consequences is referred to as Negative Side Effects (NSE).
+
+The problem of NSEs arises when trying to describe what change you would like an agent to cause, and in this case, one must also ensure that the agent also knows all of the
+changes you would not like to cause. For example, if the shortest path to accomplishing a described goal has the potential of knocking over a vase, breaking a wall, or crashing a car in the process, then the agent would do those things since they may not have explicitly been told everything not to do.
+
+To address this the original paper proposed the future task approach which considers the current task as part of a sequence of unknown tasks and provides an auxiliary reward to the current agent for the potential to complete various future tasks. We rebuilt the environment and agents and reward functions using OpenAI Gym, utilizing their PettingZoo multiagent framework.
+
+We found that introducing another agent into the environment did not degrade the agents ability to avoid certain negative side effects, but aspects of the original environment reward system, casted doubt on the validity of those results to the team.
 
 The code can be found here: https://github.com/wgrier-asu/teamSAi
 
