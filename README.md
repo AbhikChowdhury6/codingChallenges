@@ -43,6 +43,10 @@ The code can be found here: https://github.com/AbhikChowdhury6/LLMsModelingGoodL
 
 ### Future Task Rewards in Multiagent Reinforcement Learning <a name="futuretasks"></a>
 
+The code can be found here: https://github.com/wgrier-asu/teamSAi
+
+The presentation can be found here: https://docs.google.com/presentation/d/1iIqESR-mCCwjwUynaICx2lK2DRKtYrp4ygw-gEcjrXI
+
 <img src="https://github.com/AbhikChowdhury6/codingChallenges/blob/main/portfolioImages/multiAgent.gif?raw=true" width="300">
 
 
@@ -57,6 +61,11 @@ The code can be found here https://github.com/AbhikChowdhury6/CGMcomp
 <img src="https://github.com/AbhikChowdhury6/codingChallenges/blob/main/portfolioImages/CGM.png?raw=true" width="300">
 
 ### Wrist-worn Camera Object Identification <a name="llms"></a>
+
+I implemented a concept into a series of devices that could capture camera views from the wrist. We developed an end-to-end object recognition demo using TensorFlow, validating the device's use as a memory augmentation. This work enabled $500k+ in grants and counting to continue research and multiple patents.
+
+The code can be found here: https://github.com/AbhikChowdhury6/handcam
+
 <img src="https://github.com/AbhikChowdhury6/codingChallenges/blob/main/portfolioImages/handcamProto.jpg" width="300">
 <img src="https://github.com/AbhikChowdhury6/codingChallenges/blob/main/portfolioImages/keys10229.jpg" width="300">
 
@@ -112,7 +121,7 @@ In Spring of 2020 I co-instructed a wearable technology class in Fashion departm
 
 Resonea, a biosignal processing company, developed an algorithm to detect various sleep features from audio data from users smart phones. I built a wearable sensor platform that integrated into their existing signal processing pipeline. 
 
-<img src="https://github.com/AbhikChowdhury6/codingChallenges/blob/main/portfolioImages/resonea.jpg?raw=true" width="600">
+<img src="https://github.com/AbhikChowdhury6/codingChallenges/blob/main/portfolioImages/resonea.jpg?raw=true" width="300">
 
 ### Compression Sleeve for Basketball Analysis <a name="basketballsleeve"></a>
 I built a data logging platform into a compression sleeve as a platform for algorithms to analyze free throws. I wrote software for firmware and data validation. (pictured is a different motion sensor I designed using similar sensors.) basketball
