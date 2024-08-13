@@ -96,6 +96,13 @@ and code here: https://github.com/AbhikChowdhury6/qsPrez
 ### CPR Practice App Algorithm Development <a name="cprapp"></a>
 A mobile app used to train hundreds of people on how to do hands-only CPR, my contribution being the accelerometer signal processing to derive the depth and frequency of compression.
 
+## Data Engineering<a name="dataengineering"></a>
+
+
+### Kubernetes Network Configuration<a name="kubentwork"></a>
+
+### Hybrid Cloud Setup<a name="hybridcloud"></a>
+
 ## Talks and Awards<a name="talks"></a>
 I did some projects
 
