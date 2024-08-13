@@ -6,27 +6,26 @@
     4. [Wrist-worn Camera Object Identification](#handcam)
     5. [Sleep Tracker Data Analysis](#qssleep)
     6. [CPR Practice App Algorithm Development](#cprapp)
-2. [Data Engineering](#dataengineering)
-    1. [Kubernetes Network Configuration](#kubentwork)
-    2. [Hybrid Cloud Setup](#hybridcloud)
-3. [Talks and Awards](#talks)
+2. [Talks and Awards](#talks)
     1. [Vision Hack Computer Vision Hackathon in Moscow (Russia) -  Most Innovative Award](#visionhack)
     2. [Bias in NLP Talk for LA Tech for Good Equity in Data Workshop Series](#biasinnlp)
     3. [“DIY Wearables” Workshop Conducted at Media Lab](#wearablesworkshop)
-4. [Stakeholder Engagement and Business](#business)
+3. [Stakeholder Engagement and Business](#business)
     1. [Eyes On - Augmenting Nonvisual Travel Using Haptic Interfaces](#eyeson)
     2. [Wearable Technology Class in The Fashion School at ASU](#fashionclass)
-5. [Other Work on Wearable Devices](#wearables)
+4. [Other Work on Wearable Devices](#wearables)
     1. [Resonea - Wearable Microphone for Sleep Analysis](#resonea)
     2. [Compression Sleeve for Basketball Analysis](#basketballsleeve)
-    3. [Sound Responsive Dress](#sounddress)
-6. [Modeling Dynamics](#dynamics)
+    3. [Sound Responsive Dress (writeup in progress)](#sounddress)
+5. [Data Engineering (writeup in progress)](#dataengineering)
+    1. [Kubernetes Network Configuration](#kubentwork)
+    2. [Hybrid Cloud Setup](#hybridcloud)
+6. [Modeling Dynamics(writeup in progress)](#dynamics)
     1. [Unsafe Trajectory Modeling](#unsafetrajectories)
     2. [Optimal Stock Policy Simulation](#stocksimulation)
 
 
 ## Machine Learning and Data Analysis <a name="dataml"></a>
-I did some projects
 
 ### Fine-tuning LLMs for Improved Emotional Reasoning <a name="llms"></a>
 TL;DR We found that fine-tuning LLMs on responses from empathetic human listeners improved their performance on emotional reasoning tasks and that fine-tuning on poor listeners degraded their performance.
@@ -96,15 +95,8 @@ and code here: https://github.com/AbhikChowdhury6/qsPrez
 ### CPR Practice App Algorithm Development <a name="cprapp"></a>
 A mobile app used to train hundreds of people on how to do hands-only CPR, my contribution being the accelerometer signal processing to derive the depth and frequency of compression.
 
-## Data Engineering<a name="dataengineering"></a>
-
-
-### Kubernetes Network Configuration<a name="kubentwork"></a>
-
-### Hybrid Cloud Setup<a name="hybridcloud"></a>
 
 ## Talks and Awards<a name="talks"></a>
-I did some projects
 
 ### Vision Hack Computer Vision Hackathon in Moscow (Russia) -  Most Innovative Award <a name="visionhack"></a>
 
@@ -144,3 +136,10 @@ Resonea, a biosignal processing company, developed an algorithm to detect variou
 
 ### Compression Sleeve for Basketball Analysis <a name="basketballsleeve"></a>
 I built a data logging platform into a compression sleeve as a platform for algorithms to analyze free throws. I wrote software for firmware and data validation. (pictured is a different motion sensor I designed using similar sensors.) basketball
+
+## Data Engineering<a name="dataengineering"></a>
+
+
+### Kubernetes Network Configuration<a name="kubentwork"></a>
+
+### Hybrid Cloud Setup<a name="hybridcloud"></a>

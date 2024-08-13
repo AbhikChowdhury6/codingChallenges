@@ -9,3 +9,4 @@ on  sr.movie_id = mv.id;
 --rank() is row_number() but with ties
     --being the lowest row number (ranks the rows)
 --dense_rank() is what ranks the values
+--ntile(n) divides the data into n numbered groups 
