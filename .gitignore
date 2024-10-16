@@ -2,3 +2,6 @@ pyTorch/data/
 data/
 kaggle/competitions/MillionSongDataset/MillionSongSubset/
 kaggle/competitions/MillionSongDataset/otherData/
+ethicalSpecticalHackathon/ner/checkpoints/
+ethicalSpecticalHackathon/modifiedNotebook/social-bias-model/
+ethicalSpecticalHackathon/theirNotebook/social-bias-model/
