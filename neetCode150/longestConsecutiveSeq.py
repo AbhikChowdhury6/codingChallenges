@@ -2,6 +2,25 @@ from icecream import ic
 import time
 def longestConsecutive(nums) -> int:
     if len(nums) == 0: return 0
+
+    #find start indexes
+    vals_present = set(nums)
+    potential_starts = [x for x in vals_present if x-1 in vals_present]
+
+    #find their lengths
+    lens = [1]
+    for start_i in potential_starts:
+        lens.append(0)
+        i = start_i
+        while i in vals_present:
+            lens[-1] += 1
+            i += 1
+        lens[-1] += 1
+    
+    #return the max
+    return max(lens)
+
+
     #build ele_conections
     ele_connections = {}
     for i in range(len(nums)):
@@ -56,11 +75,12 @@ def longestConsecutive(nums) -> int:
             ele_connections[prev_ele_val]["seen"] = 1
             prev_ele_idx = ele_connections[prev_ele_val]["prev"]
             #ic(ele_connections)
-            time.sleep(.1)
         
         longest_len = max([longest_len, curr_len])
     
     return longest_len
 
+
+        
 nums=[0,3,2,5,4,6,1,1]
 print(longestConsecutive(nums))
