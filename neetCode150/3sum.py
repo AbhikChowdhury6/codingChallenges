@@ -5,6 +5,8 @@
 #i thought sorted tuple, but only did sorted
 #when I intiially thought through the algo I knew i had to check that the searching index
 # shouldn't be duplicated but i forgot to include it
+# for problems that are n^2 i should totes sort lists when it's handy
+
 
 class Solution:
     def threeSum(self, nums: List[int]) -> List[List[int]]:
