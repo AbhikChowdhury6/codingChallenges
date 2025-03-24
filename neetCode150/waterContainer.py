@@ -3,9 +3,17 @@ from icecream import ic
 # gawd dammit, i actually had to use the hints.
 # i'll sleep on the moving the pointers in condition and figure it out
 
+# alright so this optimization probelm is convex
+# we first looked at the the function we were optimizing
+# then we initialized at he maximum value of of one of the two terms (width)
+# then we moved one of the indexes that had the opportunity to increase the height
+# it's the less one for sure becuse of the min function
+# if they are even, either way the width is being reduced by 1
+# and the max possible height of the next iteration will be the same
+
+
 def maxArea(heights) -> int:
-    #start at the ends and move in ig ainz are on the table
-    #start at the ends and move in ig ainz are on the table
+    #start at the ends and move in if gainz are on the table
     start_idx = 0
     end_idx = len(heights) - 1
     curr_max_vol = min(heights[start_idx], heights[end_idx]) * (end_idx - start_idx)
